@@ -22,3 +22,5 @@ response先添加先执行
 
 会对请求返回的data进行JSON处理
 
+设置了防御CSRF攻击
+
